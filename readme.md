@@ -1,6 +1,6 @@
 # Indexed DB Citation Manager
 
-Hi, this is a project realized in course [JavaScript Moderno Guía Definitiva Construye +15 Proyectos](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/). The goal of this project is to give the user in this case the administration of a veterinarian, to save appointments, edit them and delete them.
+Hi, the goal of this project is to give the administration of a veterinarian, to save appointments, edit them and delete them. This is just a small demo of what was a larger veterinary application.
 
 ## Technologies
 
